@@ -1,4 +1,4 @@
-<p align="center">
+An outbreak of the deadly Ebola virus in 2002 and 2003 killed 91 of the 95 gorillas in 7 home ranges in the Congo. To study the spread of the virus, measure distance by the number of home ranges separating a group of gorillas from the first group infected. Here are data on distance and number of days until deaths began in each later group: x=1,2,5,7,3,8 y=4,22,31,39,40,50 Find the correlation r between x and y. \lparen As always, if you round, make sure you do so correctly, only round your final answer, and keep at least three decimal places.\rparen r = ?<p align="center">
   <a href="/"><img mathy-logo src="/img/mathy_logo.png" alt="Mathy.ai"></a>
 </p>
 <p align="center">
